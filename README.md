@@ -65,7 +65,6 @@ dt.predict([[5,6]])
 ## Output:
 ![image](https://github.com/user-attachments/assets/79905b3f-7063-40d4-8fdc-f7fc9f4e945f)
 
-![image](https://github.com/user-attachments/assets/4f64691d-9bdd-4cf6-8a82-bc7638e96652)
 
 ```
 mean_squared_error
